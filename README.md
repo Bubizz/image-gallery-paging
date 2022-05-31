@@ -1,6 +1,6 @@
 # imagegalery
 
-A new Flutter project.
+Displays images from memory as grid with pagination.
 
 ## Getting Started
 
